@@ -121,7 +121,7 @@ img {
 
 .quote {
   background-color: #E5E7EB;
-  padding: 150px 470px;
+  padding: 120px 470px;
 }
 
 .quote-text {
@@ -133,4 +133,22 @@ img {
   font-size: 24px;
   font-weight: 1000;
   text-align: right;
+}
+
+/* The fourth part */
+
+.bottom {
+  background-color: #3882F6;
+  color: #F9F1F8;
+  margin: 120px 250px;
+  height: 200px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottom-content {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
 }
