@@ -141,7 +141,7 @@ img {
   background-color: #3882F6;
   color: #F9F1F8;
   margin: 120px 250px;
-  height: 200px;
+  height: 170px;
   border-radius: 8px;
   display: flex;
   justify-content: space-between;
@@ -151,4 +151,21 @@ img {
   display: flex;
   flex-direction: column;
   align-self: center;
+  margin-left: 150px;
+}
+
+.action-one {
+ font-weight: 1000;
+ font-size: 24px;
+}
+
+.signup-two {
+ align-self: center;
+ margin-right: 150px;
+ color: #F9FAF8;
+ font-weight: 1000;
+ font-size: 20px;
+ padding: 5px 35px;
+ border-radius: 8px;
+ border: 1mm solid #F9F1F8;
 }
